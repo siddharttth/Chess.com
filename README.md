@@ -28,7 +28,7 @@ A real-time multiplayer chess game built with Node.js, Socket.IO, and Express. P
 3. Start the server:
 
     ```bash
-    npm start
+    npx nodemon
     ```
 
    The server will be running on `http://localhost:3000`.
